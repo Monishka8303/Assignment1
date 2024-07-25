@@ -1,4 +1,4 @@
-# Splitting CSV Assignment
+# Splitting Dataset Assignment
 The project simply downloads the provided dataset and splits the given dataset file into two dataset files on the basis of Date of Birth provided by the user. One dataset file contains the records with Date of Birth below the provided date, and the other contains the records with Date of Birth above the provided date. All the logs and errors and logged in the log file for the user as well. 
 This project is written in Python.
 
