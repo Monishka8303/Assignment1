@@ -7,16 +7,24 @@ This project is written in Python.
 ### Step 1: Create a Virtual Environment
 First, navigate to your project's root directory in the terminal. Then create a virtual environment by executing the following command:
 
-```python -m venv myenv```
+```
+python -m venv myenv
+```
 ### Step 2: Activate the Virtual Environment
 To activate your virtual environment, execute the following command:
 
-```.\myenv\Scripts\activate```
+```
+.\myenv\Scripts\activate
+```
 ### Step 3: Install the required packages
 For this project, we require pandas, requests and logging packages. These packages can be installed by executing the following command:
 
-```pip install pandas logging requests```
+```
+pip install pandas logging requests
+```
 ### Step 4: Run the project file
 To activate the project file, execute the following command:
 
-```python assgn1.py```
+```
+python assgn1.py
+```
